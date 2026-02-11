@@ -36,7 +36,6 @@ Sou um desenvolvedor focado em resolver problemas complexos. Minha base é forte
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeBrecailo&theme=tokyonight&hide_border=true" alt="GuilhermeBrecailo" />
 </div>
----
 
 ### 🐍 Minhas Contribuições (Snake Game)
 
@@ -51,7 +50,7 @@ Sou um desenvolvedor focado em resolver problemas complexos. Minha base é forte
 ### 📫 Vamos conversar?
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/GuilhermeBrecailo" target="_blank">
+  <a href="[https://www.linkedin.com/in/GuilhermeBrecailo](https://www.linkedin.com/in/guilherme-brecailo/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="mailto:brecailo3@gmail.com">
