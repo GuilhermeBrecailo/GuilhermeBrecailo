@@ -24,7 +24,7 @@ Sou um desenvolvedor focado em resolver problemas complexos. Minha base é forte
 
 | **Backend** | **Frontend** | **DevOps & Tools** |
 |:---:|:---:|:---:|
-| <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TS" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="Jest" /> | <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" alt="Vuetify" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" /> | <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" /> |
+| <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TS" /><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" /> | <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" alt="Vuetify" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" /> | <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" /> |
 | **Node.js • TS • Jest** | **Vue.js • Vuetify** | **Docker • Linux • Git** |
 
 </div>
@@ -44,9 +44,11 @@ Sou um desenvolvedor focado em resolver problemas complexos. Minha base é forte
 
 ### 🐍 Minhas Contribuições (Snake Game)
 
-<div align="center">
-  <img src="https://github.com/GuilhermeBrecailo/GuilhermeBrecailo/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeBrecailo/GuilhermeBrecailo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeBrecailo/GuilhermeBrecailo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GuilhermeBrecailo/GuilhermeBrecailo/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -63,8 +65,4 @@ Sou um desenvolvedor focado em resolver problemas complexos. Minha base é forte
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeBrecailo/GuilhermeBrecailo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeBrecailo/GuilhermeBrecailo/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GuilhermeBrecailo/GuilhermeBrecailo/output/github-contribution-grid-snake.svg">
-</picture>
+
