@@ -35,8 +35,8 @@ Sou um desenvolvedor focado em resolver problemas complexos. Minha base é forte
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBrecailo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBrecailo&layout=compact&theme=tokyonight&hide_border=true"/>
   </div>
 </div>
 
@@ -45,7 +45,7 @@ Sou um desenvolvedor focado em resolver problemas complexos. Minha base é forte
 ### 🐍 Minhas Contribuições (Snake Game)
 
 <div align="center">
-  <img src="https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github.com/GuilhermeBrecailo/GuilhermeBrecailo/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 ---
@@ -53,10 +53,10 @@ Sou um desenvolvedor focado em resolver problemas complexos. Minha base é forte
 ### 📫 Vamos conversar?
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/GuilhermeBrecailo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="mailto:SEU_EMAIL@gmail.com">
+  <a href="mailto:brecailo3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </div>
