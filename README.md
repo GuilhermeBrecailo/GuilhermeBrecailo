@@ -37,7 +37,9 @@ Sou um desenvolvedor focado em resolver problemas complexos. Minha base é forte
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBrecailo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBrecailo&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeBrecailo&theme=tokyonight&hide_border=true" alt="GuilhermeBrecailo" />
+</div>
 ---
 
 ### 🐍 Minhas Contribuições (Snake Game)
