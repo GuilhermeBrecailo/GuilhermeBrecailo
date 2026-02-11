@@ -3,7 +3,7 @@ name: generate animation
 on:
   # run automatically every 24 hours
   schedule:
-    - cron: "0 */24 * * *" 
+ - cron: "0 0 * * *"
   
   # allows to manually run the job at any time
   workflow_dispatch:
@@ -12,6 +12,7 @@ on:
   push:
     branches:
     - master
+    - main
     
 
 jobs:
@@ -31,7 +32,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
-          
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
