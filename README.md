@@ -29,7 +29,6 @@ Sou um desenvolvedor focado em resolver problemas complexos. Minha base é forte
 
 </div>
 
----
 
 ### 📊 GitHub Stats
 
